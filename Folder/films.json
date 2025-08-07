@@ -1,0 +1,428 @@
+[
+  {
+    "name": "Harry Potter and the Philosopher's Stone",
+    "description": "A young boy discovers he's a wizard and begins his magical education at Hogwarts, where he uncovers the truth about his past and destiny.",
+    "rating": 7.1,
+    "genre": "Fantasy",
+    "actors": ["Daniel Radcliffe", "Emma Watson", "Rupert Grint", "Alan Rickman"],
+    "poster": "https://kinogo.media/uploads/mini/poster/46/1632937698_iphone360_689.webp",
+    "trailer": "https://www.youtube.com/watch?v=6Nif7arIQSI"
+  },
+  {
+    "name": "Garfield: The Movie1",
+    "description": "Garfield, a lazy, lasagna-loving cat, must rescue his canine housemate Odie after he's abducted.",
+    "rating": 3.52,
+    "genre": "Fantasy",
+    "actors": ["Bill Murray", "Breckin Meyer", "Jennifer Love Hewitt", "Stephen Tobolowsky", "Nick Cannon", "Alan Cumming", "David Eigenberg", "Brad Garrett", "Debra Messing"],
+    "poster": "https://kinogo.inc/uploads/mini/short/d8/1626007991-2121983657-garfild.webp",
+    "trailer": "https://www.youtube.com/watch?v=IeFWNtMo1Fs"
+  },
+  {
+    "name": "The Lord of the Rings: The Fellowship of the Ring",
+    "description": "A young hobbit, Frodo, sets out on a quest to destroy a powerful ring that could bring darkness to Middle-earth.",
+    "rating": 8.8,
+    "genre": "Fantasy",
+    "actors": ["Elijah Wood", "Ian McKellen", "Liv Tyler", "Viggo Mortensen", "Sean Astin", "Cate Blanchett", "John Rhys‑Davies", "Billy Boyd", "Dominic Monaghan", "Orlando Bloom", "Christopher Lee", "Hugo Weaving", "Sean Bean", "Ian Holm", "Andy Serkis"],
+    "poster": "https://kinogo.inc/uploads/mini/short/68/1563720942-490328414-vlastelin-kolec-bratstvo-kolca.webp",
+    "trailer": "https://www.youtube.com/watch?v=V75dMMIW2B4"
+  },
+  {
+    "name": "Inception",
+    "description": "A skilled thief who steals secrets through dream invasion is offered a chance to have his past erased if he can pull off an impossible task—planting an idea.",
+    "rating": 7.2,
+    "genre": "Sci‑Fi",
+    "actors": ["Leonardo DiCaprio", "Joseph Gordon-Levitt", "Elliot Page", "Tom Hardy"],
+    "poster": "https://static.hdrezka.ac/i/2021/11/2/j9a49d3b3b38dmw11n94d.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=YoHD9XEInc0"
+  },
+  {
+    "name": "The Matrix",
+    "description": "A hacker discovers that reality is a simulation and joins a rebellion to free humanity from its machine overlords.",
+    "rating": 9.0,
+    "genre": "Sci‑Fi",
+    "actors": ["Keanu Reeves", "Laurence Fishburne", "Carrie-Anne Moss", "Hugo Weaving"],
+    "poster": "https://kino.cm/uploads/mini/minifull/0ba/1585419843-1334891298.webp",
+    "trailer": "https://www.youtube.com/watch?v=vKQi3bBA1y8"
+  },
+  {
+    "name": "Interstellar",
+    "description": "A team of explorers travels through a wormhole in space in search of a new home for humanity as Earth faces environmental collapse.",
+    "rating": 8.6,
+    "genre": "Sci‑Fi",
+    "actors": ["Matthew McConaughey", "Anne Hathaway", "Jessica Chastain", "Michael Caine"],
+    "poster": "https://kinogo.inc/uploads/mini/short/b7/1491114790-991695033-interstellar.webp",
+    "trailer": "https://www.youtube.com/watch?v=Gcd0S1fHgZY"
+  },
+  {
+    "name": "The Dark Knight",
+    "description": "Batman faces his greatest challenge as the Joker unleashes chaos in Gotham and tests the limits of heroism and justice.",
+    "rating": 9.0,
+    "genre": "Action",
+    "actors": ["Christian Bale", "Heath Ledger", "Aaron Eckhart", "Michael Caine"],
+    "poster": "https://static.hdrezka.ac/i/2025/5/27/k53dfafef98a0zl27l28u.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=UwrOQ2pYDxY"
+  },
+  {
+    "name": "Titanic",
+    "description": "A romance blossoms between a young aristocrat and a struggling artist aboard the doomed Titanic.",
+    "rating": 7.9,
+    "genre": "Romance",
+    "actors": ["Leonardo DiCaprio", "Kate Winslet", "Billy Zane", "Kathy Bates"],
+    "poster": "https://ukr.kinogo.online/uploads/mini/fullstory/270/b1bcb906214639f3ae9b95efea8a7.webp",
+    "trailer": "https://www.youtube.com/watch?v=LuPB43YSgCs"
+  },
+  {
+    "name": "Avatar",
+    "description": "On a distant planet, a paraplegic Marine becomes part of the indigenous population's struggle for survival.",
+    "rating": 7.8,
+    "genre": "Sci‑Fi",
+    "actors": ["Sam Worthington", "Zoe Saldana", "Sigourney Weaver", "Stephen Lang"],
+    "poster": "https://onlinevkino.com/uploads/posts/2017-03/1488493332_307d819.webp",
+    "trailer": "https://www.youtube.com/watch?v=5PSNL1qE6VY"
+  },
+  {
+    "name": "Forrest Gump",
+    "description": "The extraordinary life of a simple man who unintentionally influences several historical events in the 20th century.",
+    "rating": 8.8,
+    "genre": "Drama",
+    "actors": ["Tom Hanks", "Robin Wright", "Gary Sinise", "Sally Field"],
+    "poster": "https://kinogo.inc/uploads/mini/short/ca/1581515741-1303433223-forrest-gamp.webp",
+    "trailer": "https://www.youtube.com/watch?v=qAJFczSFVTs"
+  },
+  {
+    "name": "The Shawshank Redemption",
+    "description": "The story of a wrongly convicted banker who finds hope and freedom in Shawshank prison.",
+    "rating": 9.3,
+    "genre": "Drama",
+    "actors": ["Tim Robbins", "Morgan Freeman", "Bob Gunton"],
+    "poster": "https://static.hdrezka.ac/i/2021/3/6/o41759bd352dazn54q16d.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=NmzuHjWmXOc"
+  },
+  {
+    "name": "Pulp Fiction",
+    "description": "Interwoven stories of gangsters, a boxer, a mob boss's wife, and two petty criminals in Los Angeles.",
+    "rating": 8.9,
+    "genre": "Crime",
+    "actors": ["John Travolta", "Samuel L. Jackson", "Uma Thurman", "Bruce Willis"],
+    "poster": "https://static.hdrezka.ac/i/2021/3/17/q6e275b47b126xt59x65c.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=s7EdQ4FqbhY"
+  },
+  {
+    "name": "Fight Club",
+    "description": "A disillusioned office worker meets a charismatic soap salesman and starts an underground fight club.",
+    "rating": 8.8,
+    "genre": "Drama",
+    "actors": ["Brad Pitt", "Edward Norton", "Helena Bonham Carter"],
+    "poster": "https://static.hdrezka.ac/i/2025/7/5/ve92c32511e60ly73u54f.jpg",
+    "trailer": "https://www.youtube.com/watch?v=SUXWAEX2jlg"
+  },
+  {
+    "name": "Gladiator",
+    "description": "A betrayed Roman general becomes a gladiator to avenge the murder of his family and emperor.",
+    "rating": 8.5,
+    "genre": "Action",
+    "actors": ["Russell Crowe", "Joaquin Phoenix", "Connie Nielsen"],
+    "poster": "https://onlinevkino.com/uploads/posts/2017-01/1483380999_gladiator.webp",
+    "trailer": "https://www.youtube.com/watch?v=owK1qxDselE"
+  },
+  {
+    "name": "The Green Mile",
+    "description": "Prison guards encounter a miraculous inmate with supernatural powers who changes their lives forever.",
+    "rating": 8.6,
+    "genre": "Drama",
+    "actors": ["Tom Hanks", "Michael Clarke Duncan", "David Morse"],
+    "poster": "https://kinogo.inc/uploads/mini/short/ee/1509302130-598249484-zelenaya-milya.webp",
+    "trailer": "https://www.youtube.com/watch?v=Ki4haFrqSrw"
+  },
+  {
+    "name": "Saving Private Ryan",
+    "description": "During World War II, a group of soldiers is sent to find and rescue a paratrooper whose brothers have died.",
+    "rating": 8.6,
+    "genre": "War",
+    "actors": ["Tom Hanks", "Matt Damon", "Tom Sizemore"],
+    "poster": "https://static.hdrezka.ac/i/2013/12/10/h19e72312b67dbf72f36p.jpg",
+    "trailer": "https://www.youtube.com/watch?v=zwhP5b4tD6g"
+    },
+  {
+    "name": "The Godfather",
+    "description": "The aging patriarch of an organized crime dynasty transfers control to his reluctant son.",
+    "rating": 9.2,
+    "genre": "Crime",
+    "actors": ["Marlon Brando", "Al Pacino", "James Caan"],
+    "poster": "https://kinogo.inc/uploads/mini/short/a8/1572705738-814634704-krestnyy-otec.jpg",
+    "trailer": "https://www.youtube.com/watch?v=sY1S34973zA"
+  },
+  {
+    "name": "The Lord of the Rings: The Return of the King",
+    "description": "The final battle for Middle-earth begins as Frodo and Sam approach Mount Doom.",
+    "rating": 9.0,
+    "genre": "Fantasy",
+    "actors": ["Elijah Wood", "Viggo Mortensen", "Ian McKellen"],
+    "poster": "https://kinogo.inc/uploads/mini/short/a2/1563721447_vlastelin-kolec-vozvraschenie-korolya.webp",
+    "trailer": "https://www.youtube.com/watch?v=r5X-hFf6Bwo"
+  },
+  {
+    "name": "Se7en",
+    "description": "Two detectives hunt a serial killer who uses the seven deadly sins as his motives.",
+    "rating": 8.6,
+    "genre": "Thriller",
+    "actors": ["Brad Pitt", "Morgan Freeman", "Kevin Spacey"],
+    "poster": "https://static.hdrezka.ac/i/2023/6/19/p5673df4c530aoi86v80o.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=znmZoVkCjpI"
+  },
+  {
+    "name": "Whiplash",
+    "description": "A young drummer enrolls in a cutthroat music conservatory and clashes with an abusive instructor.",
+    "rating": 8.5,
+    "genre": "Drama",
+    "actors": ["Miles Teller", "J.K. Simmons", "Paul Reiser"],
+    "poster": "https://static.hdrezka.ac/i/2014/11/8/r3dd49a47f5aeoo25m14y.jpg",
+    "trailer": "https://www.youtube.com/watch?v=7d_jQycdQGo"
+  },
+  {
+    "name": "Joker",
+    "description": "A mentally troubled comedian descends into madness and becomes the infamous criminal known as the Joker.",
+    "rating": 8.4,
+    "genre": "Crime",
+    "actors": ["Joaquin Phoenix", "Robert De Niro", "Zazie Beetz"],
+    "poster": "https://static.hdrezka.ac/i/2021/10/17/y8106c5329b73vj80y46s.jpg",
+    "trailer": "https://www.youtube.com/watch?v=zAGVQLHvwOY"
+  },
+  {
+    "name": "The Prestige",
+    "description": "Two Victorian-era magicians engage in a fierce rivalry to create the ultimate illusion.",
+    "rating": 8.5,
+    "genre": "Thriller",
+    "actors": ["Christian Bale", "Hugh Jackman", "Scarlett Johansson", "Michael Caine"],
+    "poster": "https://static.hdrezka.ac/i/2013/11/30/g5282eb49ebc3aw27t29m.jpg",
+    "trailer": "https://www.youtube.com/watch?v=o4gHCmTQDVI"
+  },
+  {
+    "name": "Blade Runner 2049",
+    "description": "A young blade runner uncovers a long-buried secret that threatens to unravel society.",
+    "rating": 8.0,
+    "genre": "Sci‑Fi",
+    "actors": ["Ryan Gosling", "Harrison Ford", "Ana de Armas"],
+    "poster": "https://kinogo.inc/uploads/mini/short/4a/1507138987-1156151461-beguschiy-po-lezviyu-2049.jpg",
+    "trailer": "https://www.youtube.com/watch?v=gCcx85zbxz4"
+  },
+  {
+    "name": "Mad Max: Fury Road",
+    "description": "In a post‑apocalyptic wasteland, heroes fight for survival and freedom.",
+    "rating": 8.1,
+    "genre": "Action",
+    "actors": ["Tom Hardy", "Charlize Theron", "Nicholas Hoult"],
+    "poster": "https://static.hdrezka.ac/i/2021/2/14/qf359ed3e779dhu85o61y.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=hEJnMQG9ev8"
+  },
+  {
+    "name": "Arrival",
+    "description": "A linguist attempts to communicate with extraterrestrials who have landed on Earth.",
+    "rating": 7.9,
+    "genre": "Sci‑Fi",
+    "actors": ["Amy Adams", "Jeremy Renner", "Forest Whitaker"],
+    "poster": "https://static.hdrezka.ac/i/2021/1/25/j4097a330d907nv85v44v.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=tFMo3UJ4B4g"
+  },
+  {
+    "name": "La La Land",
+    "description": "A modern-day romantic tale about a musician and actress chasing dreams in Los Angeles.",
+    "rating": 8.0,
+    "genre": "Romance",
+    "actors": ["Ryan Gosling", "Emma Stone"],
+    "poster": "https://static.hdrezka.ac/i/2020/7/31/e4dca9e5f7f67un44l70w.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=0pdqf4P9MB8"
+  },
+  {
+    "name": "Moonlight",
+    "description": "A touching coming-of-age story about an African‑American youth in Miami.",
+    "rating": 7.4,
+    "genre": "Drama",
+    "actors": ["Mahershala Ali", "Alex Hibbert", "Trevante Rhodes"],
+    "poster": "https://kinogo.inc/uploads/mini/short/76/1592105054-2059339856-lunnyy-svet.jpg",
+    "trailer": "https://www.youtube.com/watch?v=9NJcSUszjrg"
+  },
+  {
+    "name": "Parasite",
+    "description": "A poor family infiltrates a wealthy household with trap-laden consequences.",
+    "rating": 8.6,
+    "genre": "Thriller",
+    "actors": ["Song Kang-ho", "Lee Sun-kyun", "Choi Woo‑shik"],
+    "poster": "https://static.hdrezka.ac/i/2022/12/6/nec088609d1d0ln95d88h.jpg",
+    "trailer": "https://www.youtube.com/watch?v=SEUXfv87Wpk"
+  },
+  {
+    "name": "Dunkirk",
+    "description": "Allied soldiers are evacuated from the beaches of France during World War II.",
+    "rating": 7.9,
+    "genre": "War",
+    "actors": ["Fionn Whitehead", "Tom Hardy", "Kenneth Branagh"],
+    "poster": "https://static.hdrezka.ac/i/2020/12/26/z12fc446ac177lv47q48w.jpg",
+    "trailer": "https://www.youtube.com/watch?v=F-eMt3SrfFU"
+  },
+  {
+    "name": "The Wolf of Wall Street",
+    "description": "The wild rise and fall of stockbroker Jordan Belfort on Wall Street.",
+    "rating": 8.2,
+    "genre": "Crime",
+    "actors": ["Leonardo DiCaprio", "Jonah Hill", "Margot Robbie"],
+    "poster": "https://static.hdrezka.ac/i/2021/7/31/m1b7eee3afd8djq76a49a.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=iszwuX1AK6A"
+  },
+  {
+    "name": "The Revenant",
+    "description": "A frontiersman survives a bear attack and seeks vengeance on those who left him for dead.",
+    "rating": 8.0,
+    "genre": "Adventure",
+    "actors": ["Leonardo DiCaprio", "Tom Hardy", "Domhnall Gleeson"],
+    "poster": "https://kinogo.inc/uploads/mini/short/5e/1493391615-1311063112-vyzhivshiy.webp",
+    "trailer": "https://www.youtube.com/watch?v=LoEB6rzr6cw"
+  },
+  {
+    "name": "The Social Network",
+    "description": "The story of Facebook’s founding and the legal battles that followed.",
+    "rating": 7.7,
+    "genre": "Drama",
+    "actors": ["Jesse Eisenberg", "Andrew Garfield", "Justin Timberlake"],
+    "poster": "https://static.hdrezka.ac/i/2023/12/24/o04c0b6a44f25ev15n22c.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=lB95KLmpLR4"
+  },
+  {
+    "name": "Memento",
+    "description": "A man with short-term memory loss tries to solve his wife’s murder.",
+    "rating": 8.4,
+    "genre": "Thriller",
+    "actors": ["Guy Pearce", "Carrie‑Anne Moss", "Joe Pantoliano"],
+    "poster": "https://static.hdrezka.ac/i/2014/12/19/mca47481fd015dr75d73y.jpg",
+    "trailer": "https://www.youtube.com/watch?v=0vS0E9bBSL0"
+  },
+  {
+    "name": "The Grand Budapest Hotel",
+    "description": "A whimsical tale of a concierge and lobby boy in a fictitious Central European hotel.",
+    "rating": 8.1,
+    "genre": "Comedy",
+    "actors": ["Ralph Fiennes", "Tony Revolori", "Saoirse Ronan"],
+    "poster": "https://static.hdrezka.ac/i/2021/10/9/z2f628cdba0c6ss34u78m.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=1Fg5iWmQjwk"
+  },
+  {
+    "name": "No Country for Old Men",
+    "description": "A hunter stumbles upon scads of money, setting off a violent chase in Texas.",
+    "rating": 8.1,
+    "genre": "Crime",
+    "actors": ["Tommy Lee Jones", "Javier Bardem", "Josh Brolin"],
+    "poster": "https://static.hdrezka.ac/i/2014/12/19/fc45ca1b58535sj99c15a.jpg",
+    "trailer": "https://www.youtube.com/watch?v=38A__WT3-o0"
+  },
+  {
+    "name": "Heat",
+    "description": "A master thief and top detective engage in a high-stakes urban duel.",
+    "rating": 8.2,
+    "genre": "Crime",
+    "actors": ["Al Pacino", "Robert De Niro", "Val Kilmer"],
+    "poster": "https://static.hdrezka.ac/i/2014/2/12/v9ca163abbaafag21l67r.jpg",
+    "trailer": "https://www.youtube.com/watch?v=VQFsL6y6G5g"
+  },
+  {
+    "name": "Inglourious Basterds",
+    "description": "An alternate WWII story about American soldiers hunting Nazis in occupied France.",
+    "rating": 8.3,
+    "genre": "War",
+    "actors": ["Brad Pitt", "Christoph Waltz", "Michael Fassbender"],
+    "poster": "https://static.hdrezka.ac/i/2021/5/7/o4e685b734a5emx91p91j.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=KnrRy6kSFF0"
+  },
+  {
+    "name": "Oldboy",
+    "description": "A man imprisoned for 15 years seeks revenge upon release in a twisted world.",
+    "rating": 8.4,
+    "genre": "Thriller",
+    "actors": ["Choi Min-sik", "Yoo Ji‑tae", "Kang Hye‑jung"],
+    "poster": "https://static.hdrezka.ac/i/2023/8/29/r8b74c351c474ue85k33k.jpg",
+    "trailer": "https://www.youtube.com/watch?v=2HkjrJ6IK5E"
+  },
+  {
+    "name": "City of God",
+    "description": "A gripping chronicle of crime and survival in the favelas of Rio de Janeiro.",
+    "rating": 8.6,
+    "genre": "Crime",
+    "actors": ["Alexandre Rodrigues", "Leandro Firmino", "Phellipe Haagensen"],
+    "poster": "https://static.hdrezka.ac/i/2024/7/22/c993c32342eecds22s57f.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=ioUE_5wpg_E"
+  },
+  {
+    "name": "Requiem for a Dream",
+    "description": "The destructive impact of addiction unraveled through the lives of four people.",
+    "rating": 8.3,
+    "genre": "Drama",
+    "actors": ["Ellen Burstyn", "Jared Leto", "Jennifer Connelly"],
+    "poster": "https://static.hdrezka.ac/i/2023/12/22/u2054c2fb7ab1rt58k79j.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=0Zv2RDrK3eE"
+  },
+  {
+    "name": "The Pianist",
+    "description": "The true story of a Polish Jewish pianist who survives the Holocaust in Warsaw.",
+    "rating": 8.5,
+    "genre": "Drama",
+    "actors": ["Adrien Brody", "Thomas Kretschmann", "Frank Finlay"],
+    "poster": "https://static.hdrezka.ac/i/2021/12/29/n3a8b9c19ada6cz52f62r.jpg",
+    "trailer": "https://www.youtube.com/watch?v=u_jgXkNfChY"
+  },
+  {
+    "name": "Pan's Labyrinth",
+    "description": "A dark fantasy allegory set in post‑Civil War Spain, blending realism with myth.",
+    "rating": 8.2,
+    "genre": "Fantasy",
+    "actors": ["Ivana Baquero", "Sergi López", "Maribel Verdú"],
+    "poster": "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/h2oVVLTa2eQmhEfwuVlG1VUEuuz.jpg",
+    "trailer": "https://www.youtube.com/watch?v=ByXuk9QqQkk"
+  },
+  {
+    "name": "Room",
+    "description": "A mother and son live in a single room; the boy experiences the outside world for the first time.",
+    "rating": 8.1,
+    "genre": "Drama",
+    "actors": ["Brie Larson", "Jacob Tremblay"],
+    "poster": "https://kinogo.inc/uploads/mini/short/a1/1574331126-1568016880-komnata.webp",
+    "trailer": "https://www.youtube.com/watch?v=E9YOwWQmQ8I"
+  },
+  {
+    "name": "The Truman Show",
+    "description": "A man discovers his entire life has been a reality TV show broadcasted to the world.",
+    "rating": 8.1,
+    "genre": "Comedy",
+    "actors": ["Jim Carrey", "Laura Linney", "Ed Harris"],
+    "poster": "https://kinogo.inc/uploads/mini/short/7c/1720551526-77084550-shou-trumana.webp",
+    "trailer": "https://www.youtube.com/watch?v=cds7xGG3dRQ"
+  },
+  {
+    "name": "District 9",
+    "description": "Aliens confined to slums in South Africa challenge a bureaucrat’s prejudice.",
+    "rating": 7.9,
+    "genre": "Sci‑Fi",
+    "actors": ["Sharlto Copley", "David James", "Jason Cope"],
+    "poster": "https://static.hdrezka.ac/i/2014/4/11/o4172650b97e0cp30x35t.jpg",
+    "trailer": "https://www.youtube.com/watch?v=DyLUwOcR5pk"
+  },
+  {
+    "name": "Her",
+    "description": "A man falls in love with an advanced AI operating system.",
+    "rating": 8.0,
+    "genre": "Romance",
+    "actors": ["Joaquin Phoenix", "Scarlett Johansson", "Amy Adams"],
+    "poster": "https://static.hdrezka.ac/i/2020/12/26/sfd953f77fe87rd11a82k.jpeg",
+    "trailer": "https://www.youtube.com/watch?v=WzV6mXIOVl4"
+  },
+  {
+    "name": "Spotlight",
+    "description": "A team of journalists uncovers widespread clerical abuse in the Church.",
+    "rating": 8.1,
+    "genre": "Drama",
+    "actors": ["Michael Keaton", "Rachel McAdams", "Mark Ruffalo"],
+    "poster": "https://static.hdrezka.ac/i/2016/1/7/qd83813d43634wi59b28i.jpg",
+    "trailer": "https://www.youtube.com/watch?v=UUNJIEfoXkc"
+  }
+]
+
+
+
